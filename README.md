@@ -1,74 +1,30 @@
-# LinkedIn User Engagement
-Objective:
-To identify strategies to reduce user churn and increase active content engagement, particularly among mid-level professionals who are currently passive users.
+# Marketing Case Study: Enhancing LinkedIn User Engagement
 
-Background:
-LinkedIn has observed a plateau in user-generated content and time spent per session. The challenge is to revitalize engagement metrics without compromising the platform’s professional tone.
+## Overview
+This consulting-style case study analyzes how LinkedIn can improve user engagement and retention. It applies structured problem-solving frameworks inspired by Sandeep Chatterjee’s consulting methods.
 
-Step 2: Framework for Problem Solving
-Use established consulting frameworks for clarity and structure.​
+## Objective
+Investigate engagement decline among mid-career professionals and propose actionable strategies to drive content participation.
 
-Step 2.1: Framework Used – “Profitability + Product-Market Fit” hybrid
+## Frameworks Applied
+- Profitability Framework
+- Market Entry & Product-Market Fit
+- User Segmentation
 
-1. Market Analysis
+## Analytical Focus
+1. Understand user activity across segments.
+2. Measure engagement score using simulated data.
+3. Develop strategic interventions combining marketing and product levers.
 
-What is the current market trend in professional networking?
+## Key Insights
+- Passive users account for 40% of total, but generate 20% of engagement.  
+- Feature-led nudges (“What’s your 2025 goal?” posts) could re-engage 15% of dormant accounts.
 
-How are younger professionals engaging differently (short-form vs. long-form)?
+## Repo Structure
+- **data/**: contains simulated engagement data  
+- **docs/**: contains framework and deck for presentation  
+- **src/**: contains Python scripts for market analysis  
 
-2. Customer Segmentation
-
-Identify three cohorts: Active Posters, Passive Consumers, Dormant Accounts.
-
-Define engagement metrics for each segment.
-
-3. Problem Diagnosis
-
-Quantitative: Decline in unique content per user over 6 months.
-
-Qualitative: User feedback suggests content fatigue and algorithmic bias.
-
-4. Strategic Levers
-
-Product: Simplify post creation and diversify content types (polls, quick-share cards).
-
-Marketing: Launch “10 Days of Insight” – a feature guiding users to post career reflections.
-
-Incentive: Introduce “Creator Recognition” badges to encourage participation.
-
-5. Metrics & Success Indicators
-
-+15% increase in DAU (daily active users)
-
-+20% increase in posts per 1000 users
-
-+10% uplift in user retention (month-over-month)
-
-Folder Structure as follows - 
-CustomerChurnPrediction/
-│
-├── data/
-│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-│
-├── notebooks/
-│   └── Churn_Analysis.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── evaluation.py
-│
-├── results/
-│   └── churn_model_metrics.txt
-│
-└── README.md
-
-data/: store the downloaded Telco Churn dataset.
-
-notebooks/: contains your exploratory analysis as a Jupyter Notebook.
-
-src/: holds modular, reusable Python scripts for each step.
-
-results/: includes final results and metrics.
-
-README.md: provides case study description and project overview.
+## Author
+[Your Name]  
+Product & Marketing Strategy Enthusiast
