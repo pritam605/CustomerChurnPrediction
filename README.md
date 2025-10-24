@@ -1,5 +1,5 @@
-# CustomerChurnPrediction
-This repo contains a case study based on telecom industry that involves working on customer churn prediction. 
+# LinkedIn User Engagement
+Improving User Engagement on LinkedIn by Enhancing Content Quality
 
 Folder Structure as follows - 
 CustomerChurnPrediction/
